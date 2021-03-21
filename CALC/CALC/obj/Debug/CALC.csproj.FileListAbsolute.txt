@@ -1,0 +1,10 @@
+C:\Users\INTEL\source\repos\CALC\CALC\bin\Debug\CALC.exe.config
+C:\Users\INTEL\source\repos\CALC\CALC\bin\Debug\CALC.exe
+C:\Users\INTEL\source\repos\CALC\CALC\bin\Debug\CALC.pdb
+C:\Users\INTEL\source\repos\CALC\CALC\obj\Debug\CALC.csprojAssemblyReference.cache
+C:\Users\INTEL\source\repos\CALC\CALC\obj\Debug\CALC.Form1.resources
+C:\Users\INTEL\source\repos\CALC\CALC\obj\Debug\CALC.Properties.Resources.resources
+C:\Users\INTEL\source\repos\CALC\CALC\obj\Debug\CALC.csproj.GenerateResource.cache
+C:\Users\INTEL\source\repos\CALC\CALC\obj\Debug\CALC.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\source\repos\CALC\CALC\obj\Debug\CALC.exe
+C:\Users\INTEL\source\repos\CALC\CALC\obj\Debug\CALC.pdb
